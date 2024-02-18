@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Pravin Kumar</h1>
+<h1 align="center">Hi<div style="width:35px"><img src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>, I'm Pravin Kumar</h1>
 
 <h3 align="center">I'm a passionate Full Stack Web Development skilled in React Js who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
