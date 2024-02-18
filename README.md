@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">I'm a passionate Full Stack Web Development skilled in React Js who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin7878&label=Profile%20views&color=0e75b6&style=flat" alt="pravin7878" /> </p>
 
