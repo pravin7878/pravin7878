@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin7878&label=Profile%20views&color=0e75b6&style=flat" alt="pravin7878" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 🌍 I'm based in Rajasthan, India
+
+ ⚛️ Some technologies that I love to working with includes Node Js, React Js.
 
 - 🔭 I’m currently working on **Prepleaf by Masai**
 
