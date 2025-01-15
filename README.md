@@ -5,13 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravin7878&label=Profile%20views&color=0e75b6&style=flat" alt="pravin7878" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- 🌍 I'm based in Rajasthan, India
+ 🌍 I'm based in Tonk, Rajasthan, India
 
  ⚛️ Some technologies that I love to working with includes Node Js, React Js.
 
-- 🔭 I’m currently working on **Prepleaf by Masai**
+- 🔭 I’m currently enrolled in **Prepleaf by Masai** full stack web development 
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱I have successfully learned React,Redux, Node js , Express Js.and mongoDB.
+- 🌱 Now I’m learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://pkb-78.netlify.app/](https://pkb-78.netlify.app/)
 
